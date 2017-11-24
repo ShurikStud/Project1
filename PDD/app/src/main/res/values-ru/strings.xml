@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ПДД</string>
+    <string name="activity_splash_text_view">правила дорожного движения</string>
+    <string name="activity_main_fragment_signin_button_cancel">отмена</string>
+    <string name="activity_main_fragment_signin_button_signin"></string>
+    <string name="activity_main_fragment_signin_text_view_login">имя пользователя</string>
+    <string name="activity_main_fragment_signin_text_view_password">пароль</string>
+</resources>

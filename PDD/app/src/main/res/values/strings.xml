@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDD</string>
+    <string name="activity_splash_text_view">pravila dorojnogo dvijeniya</string>
+    <string name="activity_main_fragment_signin_text_view_username">username</string>
+    <string name="activity_main_fragment_signin_text_view_password">password</string>
+    <string name="activity_main_fragment_signin_button_signin">sign in</string>
+    <string name="activity_main_fragment_signin_button_cancel">cancel</string>
+</resources>
